@@ -1,4 +1,4 @@
-from src.test_data_gen import TestDataGenerator
+from test_data_gen import TestDataGenerator
 
 
 def test_basic():
