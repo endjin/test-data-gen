@@ -11,7 +11,7 @@ setup(
     description="A set of tools to assist with test data preparation in Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/endjin/test-data-gen",
     packages=find_packages(exclude=['test', 'examples']),
     classifiers=[
         "Programming Language :: Python :: 3",

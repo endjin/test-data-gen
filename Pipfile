@@ -12,6 +12,10 @@ flake8 = "*"
 seaborn = "*"
 pandas = "*"
 pipenv-setup = "*"
+setuptools = "*"
+wheel = "*"
+pytest-cov = "*"
+twine = "*"
 
 [requires]
 python_version = "3.8"
