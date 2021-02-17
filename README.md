@@ -6,12 +6,12 @@ Functions for generating test data.
 
 ### Using pip
 
-To install this package in an existing Python project using (pip)[https://pip.pypa.io/en/stable/reference/pip_install/#git]:
+To install this package in an existing Python project using [pip](https://pip.pypa.io/en/stable/reference/pip_install/#git):
 
 `pip install git+https://https://github.com/endjin/test-data-gen#egg=test-data-gen`
 
 ### Using pipenv
 
-To install this package in an existing Python project using (pipenv)[https://pipenv.pypa.io/]:
+To install this package in an existing Python project using [pipenv](https://pipenv.pypa.io/):
 
 `pipenv install git+https://github.com/endjin/test-data-gen#egg=test-data-gen`
