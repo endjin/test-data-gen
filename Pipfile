@@ -9,6 +9,9 @@ numpy = "*"
 [dev-packages]
 pytest = "*"
 flake8 = "*"
+seaborn = "*"
+pandas = "*"
+pipenv-setup = "*"
 
 [requires]
 python_version = "3.8"
