@@ -11,7 +11,7 @@ import pandas as pd
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../test_data_gen'))
-from test_data_gen import TestDataGenerator
+from test_data_gen import TestDataGenerator  # noqa
 
 # %% [markdown]
 
