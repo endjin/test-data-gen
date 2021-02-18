@@ -15,3 +15,9 @@ To install this package in an existing Python project using [pip](https://pip.py
 To install this package in an existing Python project using [pipenv](https://pipenv.pypa.io/):
 
 `pipenv install git+https://github.com/endjin/test-data-gen#egg=test-data-gen`
+
+## Example
+
+To see examples of this repo in use, please see the example notebook:
+
+[https://github.com/endjin/test-data-gen/blob/main/examples/notebook_walk_through.ipynb](https://github.com/endjin/test-data-gen/blob/main/examples/notebook_walk_through.ipynb)
