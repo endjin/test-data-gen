@@ -6,10 +6,12 @@
 # this repo.
 
 # %%
-from test_data_gen import TestDataGenerator
 import seaborn as sns
 import pandas as pd
-
+import os
+import sys
+sys.path.insert(0, os.path.abspath('../test_data_gen'))
+from test_data_gen import TestDataGenerator
 
 # %% [markdown]
 
@@ -59,3 +61,5 @@ df_grouped
 
 # %%
 sns.barplot(data=df_grouped, x='exponential_category', y='count')
+
+# %%

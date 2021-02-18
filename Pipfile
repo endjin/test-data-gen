@@ -16,6 +16,8 @@ setuptools = "*"
 wheel = "*"
 pytest-cov = "*"
 twine = "*"
+jupyter = "*"
+nbimporter = "*"
 
 [requires]
 python_version = "3.8"
